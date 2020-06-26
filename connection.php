@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root123";
 $dbname = "expense_manage";
 $port="3308";
 
